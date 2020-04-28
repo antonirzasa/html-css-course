@@ -1,0 +1,47 @@
+footer{
+    height: 140px;
+    background-color: #1695a3;
+    position: relative;
+    clear: both;
+}
+
+#flogo{
+    width:100px ;
+    height:100px ;
+    position:absolute;
+    z-index:1;
+    left:20px;
+    top:10px;
+}
+
+footer h1{
+    position: absolute;
+    left: 140px;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+#insta{
+    position: absolute;
+    top: 10px;
+    width:100px ;
+    height:100px ;
+    left:600px;
+}
+
+#yt{
+    position: absolute;
+    top: 10px;
+    width:100px ;
+    height:100px ;
+    left:720px;
+}
+
+#fb{
+    position: absolute;
+    top: 10px;
+    width:100px ;
+    height:100px ;
+    left:840px;
+}

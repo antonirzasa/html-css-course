@@ -1,0 +1,127 @@
+article{
+    height: 1000px;
+    background-color: #225378;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+article h1{
+    margin: 0px;
+    padding: 20px;
+    padding-top: 60px;
+    text-align: center;
+    color:#ff9519;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+article p{
+    padding: 10px;
+    margin: 0 80px;
+    margin-bottom: 10px;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+
+.zlogo{
+    background-color: white;
+    border: 5px solid #ff9519;
+    position: absolute;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#slider{
+    width: 950px;
+    border:5px solid #ff9519;
+}
+
+.zdj_glowna{
+    padding-top: 40px;
+    margin-left: 10px;
+}
+
+article dl{
+    margin-left: 40px;
+    text-align:left;
+}
+
+article dt{
+    color: #eb7f00;
+    font-size: 26px;
+    font-weight: bolder;
+    text-align:left;
+}
+
+article dd{
+    color: white;
+    font-size: 18px;
+    text-align:left;
+}
+
+article li{
+    color: white;
+    font-size: 18px;
+    text-align:left;
+}
+
+article figcaption{
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: bolder;
+    padding-bottom: 60px;
+}
+
+article div a{
+    width:110px;
+    height: 50px;
+    background-color:  #eb7f00;
+    position: absolute;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    bottom:50px;
+    left: 40px;
+    text-decoration: none;
+}
+
+article h2{
+    margin: 0;
+    padding:40px;
+    color: white;
+    font-size: 40px;
+}
+
+.menu_ul{
+    list-style-type: none;
+}
+
+.menu_li{
+    
+}
+
+.menu_a{
+    color: #eb7f00;
+    font-size: 25px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.htmlcss{
+    color: #eb7f00;
+    font-size: 25px;
+    margin: 20px;
+    text-decoration: none;
+}
+
+article b{
+    color: black;
+}
+
+.bialy{
+	color:#a6dddf;
+}
